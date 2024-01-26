@@ -1,0 +1,16 @@
+{
+  "name": "default-nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BataZo",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "hello-app": "file:./node-own/Hello-App"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,14 @@
+{
+   "name": "hello-app",
+   "version": "1.0.0",
+   "description": "Hello-App",
+   "main": "index.mjs",
+   "exports": {
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+   },
+   "scripts": {},
+   "dependencies": {},
+   "author": "batazo",
+   "license": "MIT"
+}
